@@ -14,7 +14,7 @@ Engineering Student at ICAI
 
 **Current situation**
 
-I am currently an exchange student studying Industrial Engineering at ICAI Universidad Pontificia Comillas.
+I am currently an exchange student in Industrial Engineering at ICAI Universidad Pontificia Comillas.
 
 |**Professional experience**|
 |**Data Analyst**|2021-09-01 – 2022-02-28|**Adriver Group**|Paris|
@@ -32,9 +32,4 @@ I am currently an exchange student studying Industrial Engineering at ICAI Unive
 |French|Native|
 |English|C2|
 |Spanish|B2|
-
-
-
-
-
 
