@@ -10,18 +10,17 @@ title: CV
 
 |**Current situation**|I am currently an exchange student studying Industrial Engineering at ICAI Universidad Pontificia Comillas.|
 
-**Professional experience** 
-|**Data Analyst** |2021-09-01 – 2022-02-28|**Adriver Group**|Paris|
-|**Geographic Data Analyts** |2021-04-01 – 2022-08-31|**LocaLex Covid Research Project**|Paris|
+| :- |
+|**Professional experience**|
+|**Data Analyst**|2021-09-01 – 2022-02-28|**Adriver Group**|Paris|
+|**Geographic Data Analyts**|2021-04-01 – 2022-08-31|**LocaLex Covid Research Project**|Paris|
 
 
-||
+| :- |
 |**Education**|
-
 |**Master's Degree in Engineering**|2019-09-01 – 2023-07-01|**Ecole Centrale de Nantes**|Nantes|
 | :- | :- | -: |
 
-||
 | :- |
 |**Languages**|
 |French|Native|
@@ -29,8 +28,7 @@ title: CV
 |Spanish|B2|
 | :-: | :-: |
 
-||
-| :- |
+
 
 
 
