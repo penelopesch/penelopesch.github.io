@@ -19,6 +19,7 @@ title: CV
 | :- |
 |**Education**|
 |**Master's Degree in Engineering**|2019-09-01 – 2023-07-01|**Ecole Centrale de Nantes**|Nantes|
+|**Exchange Program**|2022-09-01 – 2023-07-01|**ICAI Universidad Pontificia Comillas**|Madrid|
 | :- | :- | -: |
 
 | :- |
