@@ -2,21 +2,20 @@
 layout: page
 title: CV
 ---
-|<p>**Penelope**  **Schuwer**</p><p>Engineering Student at ICAI</p>||
+|**Penelope**  **Schuwer**|Engineering Student at ICAI||
 | :- | :- |
 |||
 
-|||Phone|+34612345678|
+|Phone|+34612345678|
 | :- | -: | :- | :- |
-|Country|France|Email|penelope.schuwer@gmail.com|
-|City|Paris||
+|Country|France|
+|Email|penelope.schuwer@gmail.com|
+|City|Paris|
 
-||
 | :- |
-|<p>**Current situation**</p><p>I am currently an exchange student studying Industrial Engineering at ICAI Universidad Pontificia Comillas.</p>|
+|**Current situation**|I am currently an exchange student studying Industrial Engineering at ICAI Universidad Pontificia Comillas.|
 |**Professional experience** |
-
-|<p>**Data Analyts** </p><p>2021-09-01 – 2022-03-01</p>|<p>**Adriver Group**</p><p></p>|Paris|
+|**Data Analyts** |2021-09-01 – 2022-03-01|**Adriver Group**|Paris|
 | :- | :- | -: |
 
 ||
