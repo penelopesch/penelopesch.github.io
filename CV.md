@@ -3,9 +3,9 @@ layout: page
 title: CV
 ---
 |**Penelope**  **Schuwer**|Engineering Student at ICAI|
+|Email|penelope.schuwer@gmail.com|
 |Phone|+34612345678|
 |Country|France|
-|Email|penelope.schuwer@gmail.com|
 |City|Paris|
 
 |**Current situation**|I am currently an exchange student studying Industrial Engineering at ICAI Universidad Pontificia Comillas.|
