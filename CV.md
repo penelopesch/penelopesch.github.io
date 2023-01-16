@@ -25,8 +25,8 @@ title: CV
 |<p>**Master's Degree in Engineering**</p><p>2019-09-01 – 2023-07-01</p>|<p>**Ecole Centrale de Nantes**</p><p></p>|Nantes|
 | :- | :- | -: |
 
-||
-| :- |
+#||
+#| :- |
 |**Languages**|
 
 |French|Native|
