@@ -13,24 +13,26 @@ title: CV
 
 ||
 | :- |
-|<p>**Parcours professionnel**</p><p>I am currently an exchange student studying Industrial Engineering at ICAI Universidad Pontificia Comillas.</p>|
-|**Antécédents professionnels** |
+|<p>**Current situation**</p><p>I am currently an exchange student studying Industrial Engineering at ICAI Universidad Pontificia Comillas.</p>|
+|**Professional experience** |
 
 |<p>**Data Analyts** </p><p>2021-09-01 – 2022-03-01</p>|<p>**Adriver Group**</p><p></p>|Paris|
 | :- | :- | -: |
 
 ||
 | :- |
-|**Éducation**|
+|**Education**|
 
 |<p>**Master's Degree in Engineering**</p><p>2019-09-01 – 2023-07-01</p>|<p>**Ecole Centrale de Nantes**</p><p></p>|Nantes|
 | :- | :- | -: |
 
 ||
 | :- |
-|**Langues**|
+|**Languages**|
 
+|French|Native|
 |English|C2|
+|Spanish|B2|
 | :-: | :-: |
 
 ||
