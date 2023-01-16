@@ -3,11 +3,7 @@ layout: page
 title: CV
 ---
 |**Penelope**  **Schuwer**|Engineering Student at ICAI||
-| :- | :- |
-|||
-
 |Phone|+34612345678|
-| :- | -: | :- | :- |
 |Country|France|
 |Email|penelope.schuwer@gmail.com|
 |City|Paris|
@@ -25,8 +21,8 @@ title: CV
 |<p>**Master's Degree in Engineering**</p><p>2019-09-01 – 2023-07-01</p>|<p>**Ecole Centrale de Nantes**</p><p></p>|Nantes|
 | :- | :- | -: |
 
-#||
-#| :- |
+||
+| :- |
 |**Languages**|
 
 |French|Native|
