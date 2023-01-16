@@ -16,9 +16,10 @@ Engineering Student at ICAI
 
 I am currently an exchange student in Industrial Engineering at ICAI Universidad Pontificia Comillas.
 
-|**Professional experience**|
+**Professional experience**
+
 |**Data Analyst**|2021-09-01 – 2022-02-28|**Adriver Group**|Paris|
-|**Geographic Data Analyts**|2021-04-01 – 2022-08-31|**LocaLex Covid Research Project**|Paris|
+|**Data Analyst**|2021-04-01 – 2022-08-31|**LocaLex Covid Research Project**|Paris|
 
 
 **Education**
