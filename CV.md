@@ -9,7 +9,7 @@ title: CV
 |City|Paris|
 
 **Current situation**
-I am currently an exchange student studying Industrial Engineering at ICAI Universidad Pontificia Comillas.|
+I am currently an exchange student studying Industrial Engineering at ICAI Universidad Pontificia Comillas.
 
 
 |**Professional experience**|
